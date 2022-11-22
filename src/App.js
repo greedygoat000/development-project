@@ -9,7 +9,7 @@ function App() {
 
     {name: "Strawberries", type: "Berry", color: "Red", price: 3.50, "image": "images\strawberry.PNG"},
     {name: "Blueberries", type: "Berry", color: "Blue", price: 2.28, "image": "images\blueberry.png"},
-    {name: "Raspberries", type: "Berry", color: "Red", price: 3.56, "image": "images/raspberry.png"},
+    {name: "Raspberries", type: "Berry", color: "Red", price: 3.56, "image": "images/raspberry.PNG"},
     {name: "Marionberries", type: "Berry", color: "Black", price: 5.32, "image": "images/marion.png"},
     {name: "Salmonberries", type: "Berry", color: "Orange", price: 4.50, "image": "images/salmon.png"},
     {name: "Cherries", type: "Berry", color: "Red", price: 3.99, "image": "images/cherry.png"},
