@@ -7,7 +7,7 @@ import { PlaceholderButton } from 'react-bootstrap';
 function App() {
   const productList = [
 
-    {name: "Strawberries", type: "Berry", color: "Red", price: 3.50, "image": "./images/strawberry.png"},
+    {name: "Strawberries", type: "Berry", color: "Red", price: 3.50, "image": "./public/images/strawberry.png"},
     {name: "Blueberries", type: "Berry", color: "Blue", price: 2.28, "image": "images/blueberry.png"},
     {name: "Raspberries", type: "Berry", color: "Red", price: 3.56, "image": "images/raspberry.png"},
     {name: "Marionberries", type: "Berry", color: "Black", price: 5.32, "image": "images/marion.png"},
