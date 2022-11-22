@@ -14,12 +14,12 @@ function App() {
     {name: "Salmonberries", type: "Berry", color: "Orange", price: 4.50, "image": "images/salmon.PNG"},
     {name: "Cherries", type: "Berry", color: "Red", price: 3.99, "image": "images/cherry.PNG"},
 
-    {name: "Peach", type: "Tree Fruit", color: "Orange", price: 3.00, "image": "images/peach.png"},
-    {name: "Plum", type: "Tree Fruit", color: "Purple", price: 1.20, "image": "images/plum.png"},
-    {name: "Pear", type: "Tree Fruit", color: "Green", price: 2.40, "image": "images/pear.png"},
-    {name: "Apple", type: "Tree Fruit", color: "Green", price: 0.80, "image": "images/apple.png"},
-    {name: "Watermelon", type: "Vine Fruit", color: "Red", price: 3.25, "image": "images/watermelon.png"},
-    {name: "Grapes", type: "Vine Fruit", color: "Purple", price: 4.64, "image": "images/grapes.png"}
+    {name: "Peach", type: "Tree Fruit", color: "Orange", price: 3.00, "image": "images/peach.PNG"},
+    {name: "Plum", type: "Tree Fruit", color: "Purple", price: 1.20, "image": "images/plum.PNG"},
+    {name: "Pear", type: "Tree Fruit", color: "Green", price: 2.40, "image": "images/pear.PNG"},
+    {name: "Apple", type: "Tree Fruit", color: "Green", price: 0.80, "image": "images/apple.PNG"},
+    {name: "Watermelon", type: "Vine Fruit", color: "Red", price: 3.25, "image": "images/watermelon.PNG"},
+    {name: "Grapes", type: "Vine Fruit", color: "Purple", price: 4.64, "image": "images/grapes.PNG"}
    ]
    
   return (
